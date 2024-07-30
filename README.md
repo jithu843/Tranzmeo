@@ -1,1 +1,1 @@
-#For running scripts, you can use python task1.py
+#For running scripts, you can use python filename.py
